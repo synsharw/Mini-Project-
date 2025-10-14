@@ -1,4 +1,4 @@
-![IMG_7367](https://github.com/user-attachments/assets/ff998380-da6f-4ab7-91c2-0df82acc92a3)# Mini-Project-
+![IMG_7367](https://github.com/user-attachments/assets/ff998380-da6f-4ab7-91c2-0df82acc92a3)# Netflix Analysis
 
 Netflix Data & Content Strategy Analysis
 
