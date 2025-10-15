@@ -4,12 +4,13 @@ Netflix Data & Content Strategy Analysis
 
 Key skills: Data Cleaning, Data Visualization, Recommendations
 
-Analyzed customer demographics, subscription types,
-and viewing data to deliver actionable content and
-growth strategies. Identified that the Standard
-subscription and 60+ age group drive the highest
-engagement metrics (e.g., 4.1M watch hours), leading to
-recommendations focused on content localization, plan
-optimization, and personalized viewer experiences to
-improve satisfaction, drive retention, and accelerate
-long-term loyalty.
+• Analyzed customer demographics, subscription
+types, and viewing behavior to uncover key
+engagement trends.
+• Identified the Standard plan and 60+ age group as
+top drivers of engagement (4.1M+ watch hours).
+• Recommended content localization, subscription
+plan optimization, and personalized viewer
+experiences to boost satisfaction and retention.
+• Delivered insights supporting long-term customer
+loyalty and sustained growth strategies.
